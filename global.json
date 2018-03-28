@@ -97,21 +97,6 @@
                 "url": "https://raw.githubusercontent.com/feedhenry/fh-template-apps/master/screenshots/apps/sync_app/android-sync.png"
               }
             ]
-          },
-          {
-            "id": "sync_xamarin_app",
-            "name": "Sync Xamarin App",
-            "type": "client_xamarin",
-            "repoUrl": "git://github.com/feedhenry-templates/sync-xamarin-app.git",
-            "githubUrl": "https://github.com/feedhenry-templates/sync-xamarin-app.git",
-            "repoBranch": "refs/heads/master",
-            "icon": "icon-xamarin",
-            "category": "Sample Apps",
-            "screenshots": [
-              {
-                "url": "https://raw.githubusercontent.com/feedhenry/fh-template-apps/master/screenshots/apps/sync_app/android-sync.png"
-              }
-            ]
           }
         ]
       },
@@ -180,17 +165,6 @@
             "icon": "icon-apple",
             "category": "Sample Apps",
             "screenshots": []
-          },
-          {
-            "id": "saml_xamarin_app",
-            "name": "SAML Xamarin App",
-            "type": "client_xamarin",
-            "repoUrl": "git://github.com/feedhenry-templates/saml-xamarin-app.git",
-            "githubUrl": "https://github.com/feedhenry-templates/saml-xamarin-app.git",
-            "repoBranch": "refs/heads/master",
-            "icon": "icon-xamarin",
-            "category": "Sample Apps",
-            "screenshots": []
           }
         ]
       },
@@ -204,21 +178,6 @@
         "category": "Samples",
         "screenshots": [],
         "appTemplates": [
-          {
-            "id": "pushstarter_xamarin_app",
-            "name": "Simple Xamarin Push App",
-            "type": "client_xamarin",
-            "repoUrl": "git://github.com/feedhenry-templates/pushstarter-xamarin-app.git",
-            "githubUrl": "https://github.com/feedhenry-templates/pushstarter-xamarin-app.git",
-            "repoBranch": "refs/heads/master",
-            "icon": "icon-xamarin",
-            "category": "Sample Apps",
-            "screenshots": [
-              {
-                "url": "https://raw.githubusercontent.com/feedhenry/fh-template-apps/master/screenshots/apps/pushstarter_app/android-push.png"
-              }
-            ]
-          },
           {
             "id": "pushstarter_android_app",
             "name": "Simple Android Push App",
@@ -527,19 +486,6 @@
         "category": "Android"
       },
       {
-        "id": "helloworld_native_xamarin_client",
-        "name": "Helloworld Native Xamarin App",
-        "type": "client_xamarin",
-        "priority": 0.445,
-        "description": "Native Windows Hello World App which echos your name via the Cloud",
-        "repoUrl": "git://github.com/feedhenry-templates/helloworld-xamarin.git",
-        "githubUrl": "https://github.com/feedhenry-templates/helloworld-xamarin.git",
-        "repoBranch": "refs/heads/master",
-        "icon": "icon-xamarin",
-        "selected": false,
-        "category": "Xamarin"
-      },
-      {
         "id": "native_ios_swift_blank_app",
         "name": "Native iOS (Swift) blank app",
         "type": "client_native_ios",
@@ -571,23 +517,6 @@
         "screenshots": [
           {
             "url": "https://raw.githubusercontent.com/feedhenry/fh-template-apps/master/screenshots/apps/blank_advanced_webapp/1.png"
-          }
-        ]
-      },
-      {
-        "id": "blank_xamarin",
-        "name": "Blank Xamarin App",
-        "type": "client_xamarin",
-        "description": "Blank Xamarin App",
-        "priority": 0.03,
-        "repoUrl": "git://github.com/feedhenry-templates/blank-xamarin.git",
-        "githubUrl": "https://github.com/feedhenry-templates/blank-xamarin.git",
-        "repoBranch": "refs/heads/master",
-        "icon": "icon-xamarin",
-        "category": "Xamarin",
-        "screenshots": [
-          {
-            "url": "https://raw.githubusercontent.com/feedhenry/fh-template-apps/master/screenshots/apps/blank_xamarin/1.png"
           }
         ]
       },
